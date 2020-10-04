@@ -2790,7 +2790,7 @@ h3 {
 .footer .footer_top {
   padding-top: 100px;
   padding-bottom: 129px;
-  background: #FFFFFF;
+  background: #000000;
 }
 
 @media (max-width: 767px) {
@@ -2819,7 +2819,7 @@ h3 {
 .footer .footer_top .footer_widget .footer_title {
   font-size: 22px;
   font-weight: 400;
-  color: #fff;
+  color: #000;
   text-transform: capitalize;
   margin-bottom: 40px;
 }
