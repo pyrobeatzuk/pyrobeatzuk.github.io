@@ -341,8 +341,15 @@ h3 {
 
 .container3{
   text-align:center;
+  
    background-image: url("img_01.jpg");
  background-color: #cccccc;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 }
 
 /* line 254, ../../Arafath/CL/Cl November/221. Music/HTML/scss/theme-default.scss */
