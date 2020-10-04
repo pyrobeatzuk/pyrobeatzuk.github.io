@@ -3157,14 +3157,6 @@ h3 {
   background-image: url(../img/banner/bradcam_4.png);
 }
 
-div.container3 {
-   height: 10em;
-   position: relative }              /* 1 */
-div.container3 p {
-   margin: 0;
-   position: absolute;               /* 2 */
-   top: 50%;                         /* 3 */
-   transform: translate(0, -50%) }   /* 4 */
 
 /* line 13, ../../Arafath/CL/Cl November/221. Music/HTML/scss/_bradcam.scss */
 .bradcam_area {
