@@ -26,6 +26,7 @@ body {
   font-style: normal;
 }
 
+
 /* line 12, ../../Arafath/CL/Cl November/221. Music/HTML/scss/theme-default.scss */
 .img {
   max-width: 100%;
@@ -410,6 +411,11 @@ h3 {
   color: #ED1B1B !important;
   text-transform: capitalize;
   cursor: pointer;
+}
+
+.widget {
+  max-width: 60%;
+  item-align: center;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
