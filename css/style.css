@@ -339,6 +339,12 @@ h3 {
   left: 150px;
 }
 
+.container3{
+  text-align:center;
+   background-image: url("img_01.jpg");
+ background-color: #cccccc;
+}
+
 /* line 254, ../../Arafath/CL/Cl November/221. Music/HTML/scss/theme-default.scss */
 .owl-carousel .owl-nav div.owl-next {
   left: auto;
